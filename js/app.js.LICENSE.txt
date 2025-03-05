@@ -1,4 +1,12 @@
-/*! #__NO_SIDE_EFFECTS__ */
+/*!
+ * Intro.js v7.2.0
+ * https://introjs.com
+ *
+ * Copyright (C) 2012-2023 Afshin Mehrabani (@afshinmeh).
+ * https://introjs.com
+ *
+ * Date: Mon, 14 Aug 2023 19:47:14 GMT
+ */
 
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
@@ -10,15 +18,3 @@
  * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
  */
-
-/**
-* @vue/runtime-dom v3.5.13
-* (c) 2018-present Yuxi (Evan) You and Vue contributors
-* @license MIT
-**/
-
-/**
-* @vue/shared v3.5.13
-* (c) 2018-present Yuxi (Evan) You and Vue contributors
-* @license MIT
-**/
